@@ -56,7 +56,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-baptiste.lalanne.pro@protonmail.com-D14836?style=flat&logo=Mail&logoColor=white"/></a>
+<a href="mailto:baptiste.lalanne.pro@protonmail.com"><img src="https://img.shields.io/badge/-baptiste.lalanne.pro@protonmail.com-D14836?style=flat&logo=Mail&logoColor=white"/></a>
 <a href="https://gitlab.com/BaptisteLalanne"><img src="https://img.shields.io/badge/-@BaptisteLalanne-ed8e53?style=flat&logo=Gitlab&logoColor=white"/></a>
 <a href="https://twitter.com/make_it_faster"><img src="https://img.shields.io/badge/-@make_it_faster-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
