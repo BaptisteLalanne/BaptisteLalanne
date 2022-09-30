@@ -51,7 +51,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BaptisteLalanne&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BaptisteLalanne&layout=compact&langs_count=8&theme=gruvbox"/>
 </a>
-</p>
+</p>  
+
+### 💻 &nbsp; Blog
+<a href="https://baptiste.lalanne.com">https://baptiste.lalanne.com</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
