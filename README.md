@@ -54,7 +54,7 @@
 </p>  
 
 ### 💻 &nbsp; Blog
-<a href="https://baptiste.lalanne.com">https://baptiste.lalanne.com</a>
+<a href="https://baptiste-lalanne.com">https://baptiste-lalanne.com</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
